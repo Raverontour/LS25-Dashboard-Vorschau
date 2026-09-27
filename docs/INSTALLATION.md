@@ -1,6 +1,8 @@
 # Installation – LS25 Dashboard für Windows
 
-Windows 10/11, 64 Bit. Das Gesamtpaket enthält Dashboard-Setup, Begleitmod und Anleitung. Die Veröffentlichung eines Downloads erfolgt separat; die öffentliche GitHub-Vorschau stellt zunächst nur die Dokumentation bereit.
+Windows 10/11, 64 Bit. Das Gesamtpaket enthält Dashboard-Setup, Begleitmod und Anleitung. Das Windows-Paket ist als öffentliche Testversion erhältlich.
+
+**[Windows-Testversion herunterladen – Setup + Mod + Anleitung (ShareMods)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**
 
 ## 1. Gesamtpaket entpacken
 

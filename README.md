@@ -8,13 +8,17 @@
 
 **Live-Übersicht für Farming Simulator 25 – Desktop, Browser und Tablet**
 
-![Status](https://img.shields.io/badge/Status-Vorschau_Testphase-e0a800)
+![Status](https://img.shields.io/badge/Status-Öffentliche_Testversion-e0a800)
 ![Plattform](https://img.shields.io/badge/Plattform-Windows-2672EC)
 ![Spiel](https://img.shields.io/badge/Farming_Simulator-25-78B928)
 
 </div>
 
-**Öffentliche Vorschau:** Hier findest du Bilder und Anleitungen. Dashboard und Begleitmod sind noch nicht zum Download freigegeben. Die gezeigten Funktionen befinden sich im Test.
+**Öffentliche Testversion:** Dashboard und Begleitmod sind als Windows-Paket über ShareMods verfügbar. Die Funktionen befinden sich weiterhin im Test; bekannte Grenzen stehen in der Installationsanleitung.
+
+**[Windows-Testversion herunterladen – Setup + Mod + Anleitung (ShareMods)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**
+
+Enthalten: Dashboard-Setup mit Ordnerauswahl und optionalem Desktop-Symbol, Begleitmod als ZIP und Installationsanleitung. Python ist enthalten. Gesamtpaket entpacken; Mod-ZIP geschlossen lassen.
 
 **[Installation: Setup, Begleitmod und erster Start](docs/INSTALLATION.md)**
 
@@ -98,7 +102,7 @@ Fahrzeuge auswählen, Füllstände lesen, Gruppen bilden, Aufträge verstehen, P
 
 [Alle aktuellen Screenshots](docs/SCREENSHOTS.md) · [Ausführliche Bedienung](docs/BEDIENUNG.md)
 
-Bildstand: 27. September 2026 aus dem lokalen Teststand. Diese Vorschau enthält keine Programmdateien; ein Software-Download ist noch nicht freigegeben.
+Bildstand: 27. September 2026 aus dem lokalen Teststand. Dieses Repository enthält Dokumentation und Bilder; das Windows-Paket ist über den ShareMods-Link oben erhältlich.
 
 ## Eigene Shop-Icons
 
@@ -110,4 +114,4 @@ Die eigenen Vorschau-Icons erscheinen auch im Escape-Menü in Fahrzeugübersicht
 
 ## Verfügbarkeit
 
-Ein geprüfter Download wird später angekündigt. Diese Seite enthält ausschließlich Dokumentation und Bilder; der Programmcode bleibt privat. Fragen und Rückmeldungen sind über den oben verlinkten Discord willkommen.
+Die öffentliche Windows-Testversion ist über den ShareMods-Link oben erhältlich. Dieses Repository enthält weiterhin ausschließlich Dokumentation und Bilder; das Quellrepository bleibt privat. Fragen und Rückmeldungen sind über den oben verlinkten Discord willkommen.
