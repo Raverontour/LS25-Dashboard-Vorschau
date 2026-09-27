@@ -374,7 +374,7 @@ Raver ist Eigentümer und Projektverantwortlicher des LS 25 Dashboards.
 
 ### Unterstützer
 
-Happy Looser und Achim Mobil unterstützen das Projekt bei Grundlagen, Rückmeldungen und praktischen Tests.
+Happy Looser und Achimobil unterstützen das Projekt bei Grundlagen, Rückmeldungen und praktischen Tests.
 
 ### Zweck
 
@@ -386,7 +386,7 @@ Spiel- und Einstellungsdaten werden lokal verarbeitet. Tablet-Zugriff läuft üb
 
 ### Unterstützer-Links
 
-Geprüft: GIANTS ModHub und Discord von Happy Looser sowie das GitHub-Profil von Achim Mobil mit seinen öffentlichen LS25-Projekten.
+Geprüft: GIANTS ModHub und Discord von Happy Looser sowie das GitHub-Profil von Achimobil mit seinen öffentlichen LS25-Projekten.
 
 ### Drittanbieter
 
