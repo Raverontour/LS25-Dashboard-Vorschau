@@ -24,6 +24,8 @@ Enthalten: Dashboard-Setup mit Ordnerauswahl und optionalem Desktop-Symbol, Begl
 
 **[FAQ: Installation, Fotomodus, Helfer, Aufträge und Fehlerhilfe](docs/FAQ.md)**
 
+[Versionshinweise und bekannte Einschränkungen](docs/RELEASE_NOTES.md)
+
 ## Was ist das LS25-Dashboard?
 
 Das **LS25-Dashboard ist deine zusätzliche Übersicht für den Landwirtschafts-Simulator 25**. Du kannst es neben dem Spiel auf einem zweiten Bildschirm oder im Browser auf einem Tablet nutzen. So behältst du deinen Hof im Blick, während du beispielsweise mit dem Traktor auf dem Feld arbeitest.
