@@ -1,6 +1,6 @@
 # Fahrzeugfotos – Schritt für Schritt
 
-Bilder aus dem Mehrspielertest vom 27. September 2026. Pfeile und Hinweise liegen über unveränderten Screenshots. Programm und Begleitmod sind noch nicht öffentlich zum Download freigegeben.
+Bilder aus dem Mehrspielertest vom 27. September 2026. Pfeile und Hinweise liegen über unveränderten Screenshots. Das Windows-Paket ist als öffentliche Testversion erhältlich; den Download findest du auf der Projektstartseite.
 
 ## Wofür ist der Fotomodus?
 
@@ -9,6 +9,8 @@ Erstelle ein eigenes Vorschau-Icon deines tatsächlich konfigurierten Fahrzeugs,
 ## Voraussetzungen und Teststand
 
 Spielstand und Dashboard müssen laufen und verbunden sein. Verwende auf Server und Clients denselben Begleitmod. Das Objekt muss bereitgestellt sein und die Foto-Berechtigung besitzen. Die gezeigten Schritte wurden am 27. September 2026 mit Begleitmod 2.0.3.34 im Mehrspieler vom Nutzer bestätigt: Aufnahme, Mausausrichtung, Zoom, Rückkehr und Abbruch per Maus sowie Escape. Das ist kein vollständiger Kompatibilitätstest aller Mods oder mehrerer Clients.
+
+> **Neuer Singleplayer-Spielstand und der Fotomodus startet nicht?** Zuerst speichern, Spiel und Dashboard normal beenden und denselben Spielstand neu laden. [Erklärung und Schritte in den FAQ](FAQ.md).
 
 ## 1. Kamera im Dashboard öffnen
 

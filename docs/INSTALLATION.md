@@ -35,3 +35,7 @@ Dashboard und Spiel schließen, auf einem Server auch den Server stoppen. Das ne
 ## Teststand und bekannte Grenzen
 
 Dieses Paket ist ein Teststand. Der vorzeitige Abschluss einzelner Spritz- und Steineaufträge auf Thüringen ist noch nicht gelöst. Die neue Erkennung von Courseplays Entladewarten ist automatisiert geprüft, der erneute Servertest steht noch aus. Echte Server-CPU- und RAM-Messwerte sind nicht enthalten. Browseransichten wurden simuliert geprüft; ein echter Tablet-Test steht noch aus.
+
+## Fotomodus beim ersten Spielstart
+
+Bei einem neuen, noch nicht gespeicherten Singleplayer-Spielstand kann zunächst Speichern und ein Neustart nötig sein. [Vorläufigen Ablauf in den FAQ lesen](FAQ.md).
