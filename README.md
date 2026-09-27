@@ -22,7 +22,7 @@ Enthalten: Dashboard-Setup mit Ordnerauswahl und optionalem Desktop-Symbol, Begl
 
 **[Installation: Setup, Begleitmod und erster Start](docs/INSTALLATION.md)**
 
-**[FAQ: Fotomodus beim ersten Start eines neuen Spielstands](docs/FAQ.md)**
+**[FAQ: Installation, Fotomodus, Helfer, Aufträge und Fehlerhilfe](docs/FAQ.md)**
 
 ## Was ist das LS25-Dashboard?
 
