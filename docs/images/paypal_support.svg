@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="44" viewBox="0 0 310 44" role="img" aria-labelledby="title">
+  <title id="title">Projekt unterstützen über PayPal</title>
+  <rect width="310" height="44" rx="8" fill="#003087"/>
+  <path d="M220 0h82a8 8 0 0 1 8 8v28a8 8 0 0 1-8 8h-82z" fill="#f4f7fc"/>
+  <text x="110" y="28" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="17" font-weight="bold">Projekt unterstützen</text>
+  <text x="265" y="28" text-anchor="middle" fill="#003087" font-family="Arial,sans-serif" font-size="19" font-weight="bold">PayPal</text>
+</svg>
