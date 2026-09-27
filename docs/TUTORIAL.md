@@ -29,7 +29,7 @@ Gelbe Pfeile verbinden die Überschriften mit den Bedienelementen. Die Nummern e
 1. **Fahrzeuge:** Links stehen Motorfahrzeuge mit Marke, Modell, Status und Füllständen.
 2. **Geräte:** Rechts stehen Geräte, Anhänger und Anbauteile. Bei einem Gewicht ist ein fehlender Füllstand normal.
 3. **Tankinformationen:** Pfeile wechseln die sichtbaren Einträge. Beim Überfahren werden zusätzliche Tankinformationen eingeblendet.
-4. **Eigene Fotos:** Die Kamera gehört zum jeweiligen Objekt. Rot bedeutet noch kein gültiges eigenes Foto, Grün ein vorhandenes Foto. Beachte die aktuellen Foto-Probleme am Ende.
+4. **Eigene Fotos:** Die Kamera gehört zum jeweiligen Objekt. Rot bedeutet noch kein gültiges eigenes Foto, Grün ein vorhandenes Foto. Die neue Fotoanleitung am Ende erklärt den gesamten Ablauf.
 
 [Original ohne Beschriftung](images/vehicle_list.png)
 
@@ -110,11 +110,11 @@ Gelbe Pfeile verbinden die Überschriften mit den Bedienelementen. Die Nummern e
 
 Oben öffnet **?** die Hilfe. Rechts daneben öffnet **Projekt unterstützen** mit PayPal-Logo die freiwillige Zahlungsseite im Browser. **GitHub** führt direkt zum Dashboard-Projekt. Ein Klick löst keine Zahlung aus.
 
-## Fotoaufnahme: bekannte Probleme
+## Fahrzeugfotos und Vorschau-Icons
 
-Im Mehrspielertest schloss der Fotodialog bei einem fahrenden Helferfahrzeug kurz nach dem Öffnen. Nach einer Aufnahme blieb zudem zeitweise die normale Kamerasteuerung hängen; ein Fahrzeugwechsel hin und zurück half im gemeldeten Fall. Die genaue Ursache ist offen. Server-Lag ist nicht als Ursache nachgewiesen.
+[![Foto ausrichten und zoomen](images/photo_ausrichten_erklaert.svg)](EIGENE_SHOP_ICONS.md)
 
-Die neue bebilderte Fotoanleitung folgt nach Klärung und einem passenden Bild. Die [bisherige Fotoanleitung](EIGENE_SHOP_ICONS.md) bleibt vorläufig.
+Die **[Fotoanleitung mit sieben bebilderten Schritten](EIGENE_SHOP_ICONS.md)** erklärt Ausrichten, Zoomen, Weiter, Final auslösen und Abbrechen. Nach Aufnahme und Abbruch bleibst du im ursprünglichen Fahrzeug. Der Nutzer hat dies im Mehrspielertest mit dem fahrenden Valtra bestätigt. Das gespeicherte Icon erscheint auch im Escape-Menü und bei installiertem Vehicle Inspector in dessen Fahrzeugvorschau.
 
 ## Browser und Tablet
 

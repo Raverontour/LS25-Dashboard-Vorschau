@@ -49,3 +49,8 @@ Aufnahme 13:08 Uhr.
 [![Systemwerte richtig lesen](images/system_monitor.png)](images/system_monitor.png)
 
 Aufnahme 12:13 Uhr.
+
+
+## Fotomodus und Vorschau-Icons
+
+[Sieben neue Aufnahmen mit Pfeilen und Erklärung](EIGENE_SHOP_ICONS.md) – Ausrichtung, Bestätigung, Speicherung, Vehicle Inspector und Escape-Menü. Aufnahme am 27. September 2026, etwa 16:11–16:12 Uhr.

@@ -100,7 +100,11 @@ Bildstand: 27. September 2026 aus dem lokalen Teststand. Diese Vorschau enthält
 
 ## Eigene Shop-Icons
 
-Die [vorläufige Fotoanleitung](docs/EIGENE_SHOP_ICONS.md) beschreibt Auswahl und Ausrichtung. Im Mehrspielertest wurden ein vorzeitig schließender Fotodialog bei fahrendem Helfer und eine danach zeitweise blockierte Kamerasteuerung gemeldet. Ursache und neue bebilderte Anleitung sind noch offen. Kameras gibt es bei Fahrzeug-/Gerätebildern, nicht auf Karten, in Missionsdetails oder an Füllständen.
+[![Eigenes Fahrzeugfoto im Escape-Menü](docs/images/photo_escape_fahrzeuge.png)](docs/EIGENE_SHOP_ICONS.md)
+
+**[Fotoanleitung mit sieben Bildern und Pfeilen](docs/EIGENE_SHOP_ICONS.md)**: Kamera in der Fahrzeugzeile öffnen, mit Maus und Mausrad ausrichten, **Weiter** zur Kontrolle und **Final auslösen** zum Speichern. Du bleibst im ursprünglichen Fahrzeug; Abbrechen per Maus oder Escape ist im gezeigten Mehrspielertest bestätigt.
+
+Die eigenen Vorschau-Icons erscheinen auch im Escape-Menü in Fahrzeugübersicht und Karten-Auswahl. Mit installiertem Vehicle Inspector zeigt dessen Vorschau beim Darüberfahren mit der Maus das neue Bild. Die Bilder dokumentieren den Teststand, keine allgemeine Freigabe aller Modkombinationen.
 
 ## Verfügbarkeit
 

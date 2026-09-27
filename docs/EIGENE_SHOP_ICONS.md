@@ -1,61 +1,83 @@
-# Eigene Shop-Icons – Kurzanleitung
+# Fahrzeugfotos – Schritt für Schritt
 
-> **Stand 27.09.2026: vorläufig.** Im Mehrspielertest schließt der Fotodialog bei fahrenden Helferfahrzeugen teils sofort wieder. Nach einer Aufnahme kann die normale Kamerasteuerung hängen bleiben; ein Fahrzeugwechsel half im gemeldeten Fall. Die Ursache ist offen. Die unten genannten alten Teststände sind historische Angaben.
+Bilder aus dem Mehrspielertest vom 27. September 2026. Pfeile und Hinweise liegen über unveränderten Screenshots. Programm und Begleitmod sind noch nicht öffentlich zum Download freigegeben.
 
-## Browser und Tablet bedienen
+## Wofür ist der Fotomodus?
 
-Oben im Dropdown „Ansicht“ wählst du die Registerkarte. Fahrzeuge und Aufträge lassen sich suchen und nach Status filtern. Ein Tipp auf ein Fahrzeug wählt es aus; zwei schnelle Tipps oder die Schaltfläche „Einsteigen“ wechseln ins Fahrzeug. Die Fotokamera reagiert auf einen einzelnen Tipp. Auf der Karte wählst du mit einem Tipp einen Punkt; zweimal Tippen öffnet das Fahrzeug oder Kartenziel. Zwei Finger zoomen die Karte, ein Finger verschiebt sie. Kartenfilter lassen sich aufklappen. Außerhalb der Karte bleibt der normale Browser-Zoom verfügbar. Im Vehicle Manager kannst du die Zielgruppe über ein Dropdown auswählen. „Bedienung“ öffnet die Kurzhilfe. Diese neue Oberfläche ist im Browser automatisiert geprüft; ein Test auf einem echten Tablet steht noch aus.
-
-## Wofür ist das eigene Shop-Icon?
-
-Du fotografierst dein tatsächlich konfiguriertes Fahrzeug, Gerät, Anbauteil oder deinen Anhänger. Gespeichert wird nur das Objekt auf transparentem Hintergrund, ohne Halle, Landschaft oder Bildschirmtexte. Jedes einzelne Objekt hat sein eigenes Foto; zwei gleiche Modelle dürfen unterschiedlich aussehen.
+Erstelle ein eigenes Vorschau-Icon deines tatsächlich konfigurierten Fahrzeugs, Anhängers oder Geräts. Das fertige Bild zeigt das einzelne Objekt auf transparentem Hintergrund. Landschaft, andere Fahrzeuge und Bildschirmtexte aus der Live-Ansicht gehören nicht zum gespeicherten Icon.
 
 ## Voraussetzungen und Teststand
 
-Diese Anleitung gilt für Dashboard 2.03.20260926.10 zusammen mit FS25_LS25DashboardMod 2.0.3.26. Spielstand und genau ein Dashboard müssen laufen und verbunden sein. Das Objekt muss im Spiel vorhanden sein und zum eigenen Hof gehören; im Mehrspieler werden zusätzlich die Kaufrechte geprüft. Die Mausausrichtung wurde mit .25 im Spiel als flüssig bestätigt. Mausrad-Zoom und umgekehrte vertikale Mausbewegung sind neu in .26 und noch im Spiel zu prüfen.
+Spielstand und Dashboard müssen laufen und verbunden sein. Verwende auf Server und Clients denselben Begleitmod. Das Objekt muss bereitgestellt sein und die Foto-Berechtigung besitzen. Die gezeigten Schritte wurden am 27. September 2026 mit Begleitmod 2.0.3.34 im Mehrspieler vom Nutzer bestätigt: Aufnahme, Mausausrichtung, Zoom, Rückkehr und Abbruch per Maus sowie Escape. Das ist kein vollständiger Kompatibilitätstest aller Mods oder mehrerer Clients.
 
-## Rot oder Grün?
+## 1. Kamera im Dashboard öffnen
 
-Rot: Für dieses Objekt ist lokal noch kein gültiges eigenes Foto verfügbar. Grün: Ein eigenes Foto ist vorhanden. Beide Kamerabuttons sind anklickbar. Grün öffnet denselben Fotodialog, damit du das Bild ersetzen kannst. Rot allein bedeutet nicht, dass ein Missionsgerät schon bereitgestellt wurde.
+Klicke auf die kleine Kamera in der Fahrzeug- oder Gerätezeile beim gewünschten Objekt. Rot bedeutet: lokal noch kein gültiges eigenes Foto. Grün bedeutet: Foto vorhanden; ein Klick erlaubt eine neue Aufnahme. Die große Kamera oben in der Werkzeugleiste macht dagegen einen Screenshot des Dashboards. Reine Vorschau- und Detailbilder dienen der Anzeige; benutze zum Fotografieren die Fahrzeugzeile.
 
-## 1. Das richtige Objekt wählen
+## 2. Du bleibst in deinem Fahrzeug
 
-Öffne im Dashboard die Fahrzeug- oder Geräteliste und klicke auf die kleine Kamera beim Shopbild des gewünschten Objekts. Weitere Zugänge gibt es beim Vehicle Inspector, im Vehicle Manager, in der vergrößerten Fahrzeug-/Anbaugeräteansicht. Auch Browser und Tablet verwenden dieselbe Auswahl. In der Missionsanzeige, bei Füllständen und auf allen Karten gibt es keinen Kamerabutton. Bereitgestellte Missionsgeräte fotografierst du über die Fahrzeug-/Geräteliste.
+Wechsle zum Spielfenster. Der Fotodialog zeigt das gewählte Objekt, ohne deine Spielfigur aussteigen oder teleportieren zu lassen. Du kannst auch ein anderes Fahrzeug fotografieren und bleibst anschließend im zuvor besetzten Fahrzeug. Ein laufender Helfer wird durch den Fotoaufruf nicht angehalten.
 
-## 2. Zum Fotodialog wechseln
+## 3. Ausrichten und zoomen
 
-Der Klick versetzt die Spielfigur neben genau dieses Objekt und öffnet dessen Fotodialog im Spiel. Ein angeklickter Anhänger bleibt das Fotoziel, auch wenn er an einem Traktor hängt. Wechsle anschließend zum Spielfenster. Falls dort noch ein Menü offen ist, schließe es und klicke erneut auf die Kamera.
+Halte innerhalb des grünen Rahmens die linke Maustaste gedrückt und ziehe zum Drehen und Ändern der Blickhöhe. Das Mausrad im Rahmen verändert den Abstand. Alternativ gibt es unten Links drehen, Rechts drehen, Höher, Tiefer, Näher und Weiter weg. Richte das ausgewählte Objekt so aus, dass es vollständig im Rahmen liegt. Klicke danach Weiter.
 
-## 3. Ausrichten und aufnehmen
+[![3. Ausrichten und zoomen](images/photo_ausrichten_erklaert.svg)](images/photo_ausrichten_erklaert.svg)
 
-Halte innerhalb des grünen Bildrahmens die linke Maustaste gedrückt und ziehe: waagerecht dreht die Ansicht um das Objekt, senkrecht verändert die Blickhöhe mit umgekehrter Mausbewegung gegenüber .25. Mit dem Mausrad innerhalb des Rahmens zoomst du: nach vorne näher, nach hinten weiter weg. Das funktioniert auch bei gedrückter linker Maustaste. Außerhalb des Rahmens pausiert die Bewegung; Loslassen beendet sie. Nach „Weiter“ ist die Ausrichtung gesperrt, „Zurück“ gibt sie wieder frei. Alternativ benutze im Fotodialog „Links drehen“, „Rechts drehen“, „Höher“, „Tiefer“, „Näher“ und „Weiter weg“, bis das ganze Objekt innerhalb des grünen Rahmens sichtbar ist. Während des Ausrichtens siehst du das echte Objekt mit seiner Umgebung. Nur der eingerahmte Ausschnitt gehört zum späteren Bild; andere Fahrzeuge und die Umgebung werden beim finalen Foto ausgeblendet. Klicke „Weiter“, kontrolliere die Ansicht und anschließend „Final auslösen“. Erst „Final auslösen“ erzeugt die transparente Bilddatei. Beim Ausrichten werden keine Zwischenbilder gespeichert. Der finale Auslöser kann weiterhin kurz stocken. Warte auf die Bestätigung; die Bildprüfung benötigt einen kurzen Moment. Währenddessen das Dashboard geöffnet lassen.
+[Originalbild](images/photo_ausrichten.png)
 
-## Zurück, Abbrechen und Foto ersetzen
+## Ein anderer Blickwinkel
 
-„Zurück“ führt vom letzten Bestätigungsschritt wieder zur Ausrichtung. „Abbrechen“ oder Esc beendet den Fotodialog ohne neue Aufnahme. Ein bereits gespeichertes Foto bleibt dabei erhalten. Zum Ersetzen später die grüne Kamera anklicken und erneut final auslösen. Erst die erfolgreich geprüfte neue Aufnahme ersetzt das alte Bild.
+In der Live-Vorschau siehst du weiterhin die Umgebung und benachbarte Maschinen. Fotografiert wird das ausgewählte Objekt – in diesen Beispielen der rote Lkw. Durch Drehen und Zoomen wählst du die gewünschte Ansicht; die Nachbarfahrzeuge werden beim fertigen Icon nicht mit aufgenommen.
 
-## Weitere Wege im Spiel und im Shop
+[![Ein anderer Blickwinkel](images/photo_blickwinkel_erklaert.svg)](images/photo_blickwinkel_erklaert.svg)
 
-Im Spiel öffnet Strg + Umschalt + P den Fotomodus. Nach dem Bereitstellen eines neu erworbenen oder geänderten eigenen Objekts ist außerdem eine Fotoaufforderung vorgesehen. Das gilt grundsätzlich für Kauf, Miete/Leasing und bereitgestellte Missionsgeräte; einzelne Leasingkauf-Mods müssen noch praktisch geprüft werden. Ein Foto des noch nicht erworbenen Vorschauobjekts direkt während der Shop-Konfiguration ist in diesem Teststand noch nicht umgesetzt. Verwende vorerst das bereitgestellte Objekt und den Kamerabutton.
+[Originalbild](images/photo_blickwinkel.png)
 
-## Wo erscheint das Foto?
+## 4. Weiter ist noch keine Aufnahme
 
-Das eigene Bild ersetzt das Standardbild in den Fahrzeug-/Geräteansichten des Dashboards, einschließlich kleiner Objektbilder bei Füllständen. Dort erscheint nur das Bild, kein Kamerabutton. Im Spiel nutzen angebundene Anzeigen das Foto, darunter die Fahrzeugvorschau von VehicleInspector. Eine fremde Mod mit einem eigenen Bildspeicher kann eine zusätzliche Anbindung benötigen. Die Kamera oben in der Dashboard-Werkzeugleiste ist etwas anderes: Sie speichert einen Screenshot des Dashboards.
+Weiter öffnet nur die letzte Kontrolle. Die Fotokamera bleibt dabei stehen und die Ausrichtung ist gesperrt. Erst Final auslösen erstellt die Aufnahme. Zurück führt wieder zur Ausrichtung. Abbrechen oder Escape schließt ohne neues Foto; ein vorheriges gültiges Foto bleibt erhalten.
 
-## Speichern, Umbauen, Verkaufen und Zurückgeben
+[![4. Weiter ist noch keine Aufnahme](images/photo_final_erklaert.svg)](images/photo_final_erklaert.svg)
 
-Die Bilder liegen im LS25-Profil unter modSettings/FS25_LS25DashboardMod/vehicle_photos. Sie gehören zum konkreten Objekt und Spielstand. Eine erkannte Konfigurationsänderung verwirft das nicht mehr passende Foto; dann neu aufnehmen. Verkauf, Rückgabe oder Löschung entfernt die zugehörige Aufnahme. Normales Speichern und Beenden soll die Fotos erhalten. Seit der Korrektur in .21 blieben die vorhandenen Fotos bei den bisherigen Neustarts erhalten.
+[Originalbild](images/photo_final.png)
 
-## Missionsgeräte und Mehrspieler
+## 5. Speicherung und Rückkehr
 
-Ein nur im Missionsangebot aufgeführtes Gerät hat noch kein ansteuerbares Spielobjekt. Erst nach Annahme und Bereitstellung kann sein Fotodialog geöffnet werden. Im Mehrspieler müssen Server und Teilnehmer denselben Begleitmod-Stand verwenden. Ausgetauscht werden kleine Angaben zur Konfiguration und Kameraausrichtung; jeder Client erzeugt sein Bild lokal. Es werden keine laufenden Screenshot-Dateien über den Spielserver verschickt. Zusätzliche Last ist begrenzt, aber nicht null. Der Test mit mehreren echten Clients steht noch aus.
+Nach Final auslösen wird das Bild geprüft und gespeichert. Lass das Dashboard dafür geöffnet. Warte auf Fahrzeugfoto gespeichert. Danach kommt die normale Kamera zurück: Warst du vorher im Valtra, bleibst du im Valtra – auch nach dem Foto eines anderen Fahrzeugs. Die sichtbare Umlautstörung der älteren Erfolgsmeldung im Screenshot ist im nächsten Update korrigiert; der Screenshot bleibt unverändert.
+
+[![5. Speicherung und Rückkehr](images/photo_gespeichert_erklaert.svg)](images/photo_gespeichert_erklaert.svg)
+
+[Originalbild](images/photo_gespeichert.png)
+
+## 6. Vorschau mit Vehicle Inspector
+
+Wenn Vehicle Inspector installiert ist, erscheint das neue Vorschau-Icon beim Darüberfahren mit der Maus über das jeweilige Fahrzeug in seiner Anzeige. Die Bilder zeigen den pinken Valtra und darunter dessen Anbaugerät. Der Nutzer hat diese Integration im gezeigten Spielstand getestet. Andere Mods mit eigenem Bildspeicher können zusätzliche Unterstützung benötigen.
+
+[![6. Vorschau mit Vehicle Inspector](images/photo_vehicle_inspector_erklaert.svg)](images/photo_vehicle_inspector_erklaert.svg)
+
+[Originalbild](images/photo_vehicle_inspector.png)
+
+## 7. Eigenes Bild im Escape-Menü
+
+Öffne im Spiel mit Escape das Menü und wähle die Fahrzeugübersicht. Beim ausgewählten Fahrzeug erscheint unten das eigene Vorschaubild. Im Screenshot ist der pinke Valtra S 286 ausgewählt. Es handelt sich um die Fahrzeugansicht des Spiels, nicht um das Dashboard.
+
+[![7. Eigenes Bild im Escape-Menü](images/photo_escape_fahrzeuge_erklaert.svg)](images/photo_escape_fahrzeuge_erklaert.svg)
+
+[Originalbild](images/photo_escape_fahrzeuge.png)
+
+## 8. Eigenes Bild auf der Spielkarte
+
+Auch bei der Auswahl eines Fahrzeugs auf der Karte im Escape-Menü erscheint das neue Icon im Auswahlfenster. Hier zeigt das Fenster den pinken S 286 und seinen Hof. Die darunterliegenden Spielaktionen gehören zum normalen Kartenmenü; für das Foto musst du keinen Auftrag abbrechen und kein Fahrzeug zurückgeben.
+
+[![8. Eigenes Bild auf der Spielkarte](images/photo_escape_karte_erklaert.svg)](images/photo_escape_karte_erklaert.svg)
+
+[Originalbild](images/photo_escape_karte.png)
+
+## Fotos ersetzen und Spielstände trennen
+
+Über die grüne Kamera kannst du ein vorhandenes Foto ersetzen. Erst eine erfolgreich geprüfte Aufnahme ersetzt das bisherige Icon. Bilder liegen lokal in den Mod-Einstellungen und werden über die Spielstandkennung sowie Einzelspieler/Mehrspieler und Karte getrennt zugeordnet. Im Mehrspieler werden kleine Fotozuordnungen und Kameraangaben ausgetauscht; die Bilddateien werden lokal erzeugt. Ein Test mit mehreren echten Clients bleibt offen.
 
 ## Wenn es nicht klappt
 
-Bei „Daten veraltet“ das Spiel fortsetzen und frische Daten abwarten. Bei „Spiel beschäftigt“ den offenen Dialog im Spiel schließen. Bei einem fehlenden Gerät prüfen, ob es bereits bereitgestellt wurde und zum eigenen Hof gehört. Eine fehlerhafte Aufnahme wird nicht als eigenes Icon übernommen; das Standardbild oder das vorherige gültige Foto bleibt. Die neue Live-Kamera soll die bisherigen Pausen zwischen den Vorschauaufnahmen vermeiden. Die Ausrichtung per linker Maustaste wurde im Spiel mit .25 als flüssig und gut steuerbar bestätigt. Bei Fahrzeugen mit beweglichen Teilen vor dem Öffnen des Fotodialogs anhalten und Helfer pausieren; diese werden vom Fotomodus nicht angehalten. Videoüberwachung ist als spätere, getrennte Funktion vorgesehen und noch nicht verfügbar.
-
-Weitere Bedienhinweise: [Browser und Tablet](BROWSER_TABLET.md).
-
-## Verfügbarkeit dieser Anleitung
-
-Die oben genannten Versionen sind ein separater Fotofunktions-Teststand. Diese Dokumentation veröffentlicht keine neue Release-Datei und bedeutet nicht, dass ältere Downloads  die Fotokamera bereits enthalten. Für den Test werden das passende Dashboard und der passende Begleitmod gemeinsam benötigt.
+Bei Daten veraltet auf frische Spieldaten warten. Bei Spiel beschäftigt das offene Spielmenü schließen. Bei fehlendem Gerät prüfen, ob es bereits bereitgestellt wurde und die Rechte stimmen. Bei einer fehlgeschlagenen Prüfung bleibt das bisherige gültige Foto oder das Standardbild erhalten. Fehler mit Zeitpunkt und Log melden; ein kurzer Ruckler beim finalen Rendern beweist für sich keinen Server-Lag.

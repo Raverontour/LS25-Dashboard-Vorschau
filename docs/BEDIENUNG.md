@@ -391,3 +391,8 @@ Geprüft: GIANTS ModHub und Discord von Happy Looser sowie das GitHub-Profil von
 ### Drittanbieter
 
 Optionale Mods und Spielressourcen bleiben Eigentum ihrer jeweiligen Urheber. AutoDrive, Courseplay, Happy-Looser-Anzeigen, Production Info und AllRound werden nur verwendet, wenn sie vorhanden sind.
+
+
+## Fotoanleitung mit Bildern
+
+[Eigene Fahrzeugfotos: Ausrichten, final auslösen und Vorschau-Icons im Spiel](EIGENE_SHOP_ICONS.md). Nach der Aufnahme oder dem Abbrechen bleibst du im ursprünglichen Fahrzeug. „Weiter“ öffnet erst die Bestätigung; erst „Final auslösen“ speichert.
