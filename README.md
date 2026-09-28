@@ -20,6 +20,8 @@
 
 ### Mods für die zugehörigen Anzeigen und Funktionen
 
+**Für den vollen Funktionsumfang:** Installiere und aktiviere den mitgelieferten Begleitmod sowie die unten aufgeführten Zusatzmods, damit du alle bisher eingebauten Anzeigen, HUDs und Mod-Anbindungen nutzen kannst. Ohne einen Zusatzmod stehen dessen zugehörige Funktionen nicht vollständig zur Verfügung.
+
 **Die Modnamen sind anklickbar:** Öffne die jeweilige Originalseite und lade dort die LS25-Version herunter. Der benötigte Begleitmod **FS25_LS25DashboardMod.zip** ist bereits im Windows-Paket enthalten. Die folgenden Zusatzmods werden separat heruntergeladen; du brauchst sie für die jeweils zugehörigen Erweiterungen.
 
 | Anzeige | Benötigter Mod / Originalseite |
