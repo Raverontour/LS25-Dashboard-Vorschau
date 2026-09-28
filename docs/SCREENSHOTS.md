@@ -1,5 +1,7 @@
 # Aktuelle Bildergalerie
 
+**Neu: [Browser- und Tabletansicht mit echten Spielaufnahmen vom 28. September](BROWSER_TABLET.md).**
+
 Aufnahmen vom 27. September 2026. [Tutorial mit Pfeilen und Schrittfolgen](TUTORIAL.md). Das unvollständige Ladebild von 12:09 wird nicht als Produktansicht verwendet.
 
 ## Fahrzeuge und Helfer

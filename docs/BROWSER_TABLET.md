@@ -1,31 +1,23 @@
-# Browser und Tablet – kurze Anleitung
+# Browser- und Tabletansicht
 
-Teststand: Dashboard 2.03.20260926.10, Begleitmod 2.0.3.26. Noch kein reguläres GitHub-Release.
+Echte Spielaufnahmen vom 28. September 2026. Die Ansicht passt sich der verfügbaren Fensterbreite an. Auf den früheren Aufnahmen heißt der Produktionsreiter noch „Production Overview“; im aktuellen Update lautet er **Production Info HUD**.
 
-## Die gewünschte Ansicht öffnen
+## Fahrzeuge und Füllstände
 
-Oben im Dropdown **Ansicht** die Registerkarte wählen. Auf breiten Bildschirmen stehen zusätzlich die Registerkarten bereit. **Spielanzeigen** blendet die Schaltflächen für die unterstützten Anzeigen im Spiel ein. **Bedienung** öffnet die Hilfe.
+![Fahrzeug mit Produktbildern, Füllständen und Einsteigen](images/browser_fahrzeuge.png)
 
-## Fahrzeuge und Geräte
+Fahrzeugbild, Gerätestatus und Füllstände stehen zusammen. „Einsteigen“ führt die Aktion im Spiel aus; die Kamera öffnet den Fotomodus.
 
-Die Bilder sind größer, Informationen und Füllstände stehen in getrennten Bereichen. In der Fahrzeugliste kann nach Name, Marke oder Fahrer gesucht werden. Die Auswahl **Anzeige** filtert nach Einsatzstatus oder fehlendem eigenen Foto.
+## Animals Display
 
-Einmal auf das Fahrzeug tippen: auswählen. Zweimal zügig auf dasselbe Fahrzeug tippen: einsteigen. Alternativ **Einsteigen** einmal antippen. Auf die rote oder grüne Fotokamera einmal tippen: Fotodialog für genau dieses Objekt im Spiel öffnen. Grün erlaubt auch das Ersetzen eines vorhandenen Fotos. Füllstand-Seiten mit den Pfeilen wechseln; dies betritt kein Fahrzeug.
+![Stallauswahl und Versorgung mit Eingangs- und Ausgangsbalken](images/browser_tiere.png)
 
-## Karten mit den Fingern bedienen
+Alle Ställe oder einen einzelnen Stall auswählen. Produktbilder und Balken zeigen die Versorgung und Erzeugnisse. Tiergruppen und Details lassen sich aufklappen. Ein Strich bedeutet eine fehlende Kapazitätsangabe.
 
-Zwei Finger auseinanderziehen zum Vergrößern, zusammenziehen zum Verkleinern. Eine vergrößerte Karte mit einem Finger verschieben. Einmal auf einen Fahrzeug- oder Zielpunkt tippen: auswählen. Zweimal zügig tippen: Fahrzeug betreten bzw. zum Ziel springen. Verschieben oder Abbrechen einer Geste löst keine solche Aktion aus. **Zurücksetzen** zeigt die gesamte Karte. **Kartenfilter** aufklappen, um einzelne Kategorien ein- oder auszublenden. Auf Karten gibt es keine Fotokameras.
+## Missionen
 
-Außerhalb der Karten bleibt der normale Zoom des Browsers verfügbar. Die neue Bedienung wurde in einem Touch-fähigen Browsertest geprüft; die praktische Prüfung auf einem echten Tablet steht noch aus.
+![Aufträge mit Fortschritt und aufgeklappten Missionsfahrzeugen](images/browser_missionen.png)
 
-## Aufträge
+Suche und Statusfilter helfen bei vielen Aufträgen. Aufgeklappte Details zeigen die bereitgestellten Fahrzeuge und weitere Missionsangaben. Status und Fortschritt stammen aus dem Spiel; widersprüchliche Werte wie „Abgeschlossen“ bei null Prozent sind kein Beleg für einen behobenen Missionsfehler.
 
-Aufträge suchen oder den Status im Dropdown auswählen. Einen Auftrag antippen, um seine Details aufzuklappen. Bezeichnungen und Werte stehen getrennt; Liefermenge, Eigenanteil und dessen Erlös sind hervorgehoben. Gerätebilder stehen in einem Raster mit umgebrochenen Namen. Der Pfeil öffnet den Auftrag im Spiel. Hier gibt es keine Fotokameras; bereitgestellte Missionsgeräte können in der Fahrzeug-/Geräteliste fotografiert werden.
-
-## Gruppen verwalten
-
-Im Vehicle Manager den Editiermodus einschalten. Die Zielgruppe im Dropdown auswählen oder direkt antippen. Einmal auf ein Fahrzeug tippen wählt es aus, zweimal Tippen fügt es der gewählten Gruppe hinzu. Gruppen lassen sich über die beschrifteten Schaltflächen anlegen, umbenennen oder löschen.
-
-## Foto ausrichten
-
-Im grünen Rahmen die linke Maustaste halten und ziehen. Die senkrechte Richtung ist gegenüber .25 umgekehrt. Das Mausrad zoomt innerhalb des Rahmens: vorwärts näher, rückwärts weiter weg. „Weiter“, „Zurück“ und „Final auslösen“ behalten ihre bisherige Funktion. Nur das finale Bild wird gespeichert. Mausrad und umgekehrte Richtung sind automatisiert geprüft; der neue Stand benötigt noch einen Test im Spiel.
+[Zur Bildergalerie](SCREENSHOTS.md) · [Versionshinweise](RELEASE_NOTES.md) · [Installation](INSTALLATION.md)

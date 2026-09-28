@@ -20,6 +20,8 @@
 
 **Update verfügbar:** Browser-/Tablet-Erweiterungen, automatische Datenabfrage und Setup mit Update/Deinstallation sind im neuen Paket enthalten. Der bisherige Download oben bleibt als älterer Stand verfügbar. [Alle Änderungen](docs/RELEASE_NOTES.md).
 
+**[So sieht die Browser- und Tabletansicht aus – neue Bildergalerie](docs/BROWSER_TABLET.md)**
+
 ### Update herunterladen
 
 **[Update herunterladen – Setup + Mod 2.0.3.38 + Anleitung (ShareMods)](https://sharemods.com/fmr8z38ao75v/LS25_Dashboard_2.03_Mod_2.0.3.38_Windows_Public_ENTPACKEN.zip.html)**
