@@ -2,7 +2,7 @@
 
 Windows 10/11, 64 Bit. Das Gesamtpaket enthält Dashboard-Setup, Begleitmod und Anleitung. Das Windows-Paket ist als öffentliche Testversion erhältlich.
 
-**[Windows-Testversion herunterladen – Setup + Mod + Anleitung (ShareMods)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**
+**[Bisherige Windows-Testversion herunterladen (älterer Stand)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**
 
 ## 1. Gesamtpaket entpacken
 
@@ -41,14 +41,14 @@ Dieses Paket ist ein Teststand. Der vorzeitige Abschluss einzelner Spritz- und S
 Bei einem neuen, noch nicht gespeicherten Singleplayer-Spielstand kann zunächst Speichern und ein Neustart nötig sein. [Vorläufigen Ablauf in den FAQ lesen](FAQ.md).
 
 
-## Vorschau: fehlende Mods erkennen
+## Fehlende Mods erkennen – Update 2.0.3.38
 
-Im nächsten Public-Update bleiben zugehörige HUD-Icons und Registerkarten bei fehlenden Moddateien grau sichtbar. Hover nennt den Mod; Doppelklick öffnet seine Originalseite. [Bedienung, Installationsschritte und Originalquellen](FEHLENDE_MODS.md). Im bisherigen Download ist diese Änderung noch nicht enthalten.
+Im Update mit Begleitmod 2.0.3.38 bleiben zugehörige HUD-Icons und Registerkarten bei fehlenden Moddateien grau sichtbar. Hover nennt den Mod; Doppelklick öffnet seine Originalseite. [Bedienung, Installationsschritte und Originalquellen](FEHLENDE_MODS.md). Im bisherigen Download ist diese Änderung noch nicht enthalten.
 
 
-## 28. September 2026 – neuer Public-Kandidat, Begleitmod 2.0.3.38
+## 28. September 2026 – Public-Update mit Begleitmod 2.0.3.38
 
-**Downloadstatus:** Das neue Windows-Paket ist vorbereitet. Der bisherige ShareMods-Link führt weiterhin zur älteren öffentlichen Version. Sobald ein neuer Downloadlink vorliegt, wird er hier ergänzt.
+**Downloadstatus:** [Update herunterladen – Setup + Mod 2.0.3.38 + Anleitung (ShareMods)](https://sharemods.com/fmr8z38ao75v/LS25_Dashboard_2.03_Mod_2.0.3.38_Windows_Public_ENTPACKEN.zip.html). Der bisherige Download bleibt als ältere Version verfügbar.
 
 - Fehlende und nicht aktivierte Zusatzmods bleiben als graue Icons und Register sichtbar. Hinweise unterscheiden Download und Aktivierung. Doppelklick öffnet bei fehlenden Mods die Originalquelle.
 - Automatischer erster Datenabgleich nach jeder neuen Spielsitzung; geöffnete Browserseiten aktualisieren unabhängig vom Desktop-Reiter. Der erste Abgleich benötigt ungefähr eine halbe Minute.

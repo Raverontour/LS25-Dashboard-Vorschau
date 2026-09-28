@@ -16,13 +16,15 @@
 
 **Öffentliche Testversion:** Dashboard und Begleitmod sind als Windows-Paket über ShareMods verfügbar. Die Funktionen befinden sich weiterhin im Test; bekannte Grenzen stehen in der Installationsanleitung.
 
-**[Windows-Testversion herunterladen – Setup + Mod + Anleitung (ShareMods)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**
+**[Bisherige Windows-Testversion herunterladen (älterer Stand)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**
 
-**Neuer Stand vorbereitet:** Browser-/Tablet-Erweiterungen, automatische Datenabfrage und Setup mit Update/Deinstallation sind im neuen Public-Kandidaten enthalten. Der Download oben bleibt bis zum neuen Upload auf dem bisherigen Stand. [Alle Änderungen](docs/RELEASE_NOTES.md).
+**Update verfügbar:** Browser-/Tablet-Erweiterungen, automatische Datenabfrage und Setup mit Update/Deinstallation sind im neuen Paket enthalten. Der bisherige Download oben bleibt als älterer Stand verfügbar. [Alle Änderungen](docs/RELEASE_NOTES.md).
 
 ### Update herunterladen
 
-Neues Windows-Paket mit Begleitmod **2.0.3.38**: Der neue Downloadlink folgt nach dem Upload. Das Paket eignet sich auch für eine Erstinstallation. Bei einem Update denselben Dashboard-Ordner wählen; Einstellungen und eigene Bilder bleiben erhalten.
+**[Update herunterladen – Setup + Mod 2.0.3.38 + Anleitung (ShareMods)](https://sharemods.com/fmr8z38ao75v/LS25_Dashboard_2.03_Mod_2.0.3.38_Windows_Public_ENTPACKEN.zip.html)**
+
+Neues Windows-Paket mit Begleitmod **2.0.3.38**. Das Paket eignet sich auch für eine Erstinstallation. Bei einem Update denselben Dashboard-Ordner wählen; Einstellungen und eigene Bilder bleiben erhalten.
 
 ### Mods für die zugehörigen Anzeigen und Funktionen
 
@@ -45,7 +47,7 @@ Neues Windows-Paket mit Begleitmod **2.0.3.38**: Der neue Downloadlink folgt nac
 
 **Einrichten:** Spiel speichern und beenden. Die heruntergeladenen Mod-ZIPs **nicht entpacken**, sondern in deinen verwendeten LS25-Mods-Ordner kopieren. Beim nächsten Laden des Spielstands aktivieren; im Mehrspieler dieselben Modversionen auf Server und Clients verwenden.
 
-Die neuen grauen Icons mit Hinweisen und Doppelklick-Links kommen erst mit dem nächsten Public-Update. [Details zu fehlenden Mods](docs/FEHLENDE_MODS.md).
+Die neuen grauen Icons mit Hinweisen und Doppelklick-Links sind im Update mit Begleitmod 2.0.3.38 enthalten. [Details zu fehlenden Mods](docs/FEHLENDE_MODS.md).
 
 Enthalten: Dashboard-Setup mit Ordnerauswahl und optionalem Desktop-Symbol, Begleitmod als ZIP und Installationsanleitung. Python ist enthalten. Gesamtpaket entpacken; Mod-ZIP geschlossen lassen.
 

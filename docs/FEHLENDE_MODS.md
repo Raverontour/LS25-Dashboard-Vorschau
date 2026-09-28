@@ -33,6 +33,6 @@ Die Zuordnung beschreibt die Bedienung des kommenden Dashboard-Updates. Der eige
 [Installation](INSTALLATION.md) · [FAQ](FAQ.md)
 
 
-## Vorhanden, aber nicht aktiviert – neuer Public-Kandidat
+## Vorhanden, aber nicht aktiviert – Public-Update 2.0.3.38
 
 Mit Begleitmod 2.0.3.38 wird zusätzlich geprüft, ob der Mod im aktuellen Spielstand geladen ist. Eine vorhandene, aber deaktivierte Mod-ZIP führt ebenfalls zur grauen Anzeige. Der Hinweis fordert dann zum Aktivieren auf; ein erneuter Download ist nicht erforderlich. Spiel speichern und beenden, Mod beim Laden aktivieren. Ein lediglich ausgeschaltetes HUD ist kein fehlender Mod.

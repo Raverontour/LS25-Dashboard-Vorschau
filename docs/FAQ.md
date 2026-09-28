@@ -126,15 +126,15 @@ Logs vor öffentlichem Teilen auf Zugangsdaten, Serveradressen und persönliche 
 Ja. Die Sammlung basiert auf den tatsächlich besprochenen und geprüften Fällen. Neue bestätigte Erkenntnisse und Korrekturen sollen bei weiteren Updates eingearbeitet werden. Vermutungen bleiben ausdrücklich gekennzeichnet; ein vorgemerkter Punkt ist noch keine ausgelieferte Funktion.
 
 
-## Vorschau: fehlende Mods erkennen
+## Fehlende Mods erkennen – Update 2.0.3.38
 
-Im nächsten Public-Update bleiben zugehörige HUD-Icons und Registerkarten bei fehlenden Moddateien grau sichtbar. Hover nennt den Mod; Doppelklick öffnet seine Originalseite. [Bedienung, Installationsschritte und Originalquellen](FEHLENDE_MODS.md). Im bisherigen Download ist diese Änderung noch nicht enthalten.
+Im Update mit Begleitmod 2.0.3.38 bleiben zugehörige HUD-Icons und Registerkarten bei fehlenden Moddateien grau sichtbar. Hover nennt den Mod; Doppelklick öffnet seine Originalseite. [Bedienung, Installationsschritte und Originalquellen](FEHLENDE_MODS.md). Im bisherigen Download ist diese Änderung noch nicht enthalten.
 
 
-## Was ändert sich in der Browseransicht im neuen Public-Kandidaten?
+## Was ändert sich in der Browseransicht im Public-Update mit Begleitmod 2.0.3.38?
 
 Animals Display und Production Info HUD haben eigene Datenseiten. HUDs steuert dagegen nur die Anzeigen im Spiel. Die erste Datenabfrage startet nach dem Verbinden automatisch; Desktop-Reiter müssen dafür nicht angeklickt werden.
 
 Production Info HUD trennt echte Rohstoff- und Produktlager von den Produktionsrezepten. Ein Rezept hat einen Aktivitätsstatus, keinen eigenen Lagerbalken. Ein Strich steht für eine fehlende Kapazität. Nach dem Update die Browserseite neu laden.
 
-Die Änderungen gelten für das vorbereitete neue Paket; der bisherige ShareMods-Download ist noch unverändert. [Versionshinweise](RELEASE_NOTES.md).
+Die Änderungen sind im neuen Update enthalten: [Update herunterladen – Setup + Mod 2.0.3.38 + Anleitung (ShareMods)](https://sharemods.com/fmr8z38ao75v/LS25_Dashboard_2.03_Mod_2.0.3.38_Windows_Public_ENTPACKEN.zip.html). Der bisherige Download bleibt unverändert. [Versionshinweise](RELEASE_NOTES.md).

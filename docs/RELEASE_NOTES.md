@@ -1,8 +1,8 @@
 # Versionshinweise
 
-## 28. September 2026 – neuer Public-Kandidat, Begleitmod 2.0.3.38
+## 28. September 2026 – Public-Update mit Begleitmod 2.0.3.38
 
-**Downloadstatus:** Das neue Windows-Paket ist vorbereitet. Der bisherige ShareMods-Link führt weiterhin zur älteren öffentlichen Version. Sobald ein neuer Downloadlink vorliegt, wird er hier ergänzt.
+**Downloadstatus:** [Update herunterladen – Setup + Mod 2.0.3.38 + Anleitung (ShareMods)](https://sharemods.com/fmr8z38ao75v/LS25_Dashboard_2.03_Mod_2.0.3.38_Windows_Public_ENTPACKEN.zip.html). Der bisherige Download bleibt als ältere Version verfügbar.
 
 - Fehlende und nicht aktivierte Zusatzmods bleiben als graue Icons und Register sichtbar. Hinweise unterscheiden Download und Aktivierung. Doppelklick öffnet bei fehlenden Mods die Originalquelle.
 - Automatischer erster Datenabgleich nach jeder neuen Spielsitzung; geöffnete Browserseiten aktualisieren unabhängig vom Desktop-Reiter. Der erste Abgleich benötigt ungefähr eine halbe Minute.
