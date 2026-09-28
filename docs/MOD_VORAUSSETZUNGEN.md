@@ -36,3 +36,8 @@ Der Dashboard-Reiter „Fill Type Amount Price“ besitzt ein Suchfeld. Es filte
 ## Keine Weiterverteilung fremder Inhalte
 
 Die offizielle Seite von [Production Info Hud](https://www.farming-simulator.com/mod.php?mod_id=313960) untersagt erneutes Hochladen außerhalb des ModHub und verweist auf den Originaldownload. Daher hier keine Mod-ZIP, Originalgrafiken oder fremden Modquellen. Auch GIANTS-Grafikdateien, Kartendateien und fremde Binärprogramme werden nicht gebündelt. Bedienbilder sind Dokumentations-Screenshots, kein wiederverwendbares Grafikpaket.
+
+
+## Vorschau: fehlende Mods erkennen
+
+Im nächsten Public-Update bleiben zugehörige HUD-Icons und Registerkarten bei fehlenden Moddateien grau sichtbar. Hover nennt den Mod; Doppelklick öffnet seine Originalseite. [Bedienung, Installationsschritte und Originalquellen](FEHLENDE_MODS.md). Im bisherigen Download ist diese Änderung noch nicht enthalten.

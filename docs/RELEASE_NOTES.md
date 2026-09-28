@@ -17,3 +17,8 @@ Diese Ergänzung betrifft die Dokumentation. **Das bereits angebotene Downloadpa
 Die FAQ wird bei weiteren geprüften Erkenntnissen und Updates gepflegt. Ein vorgemerkter Punkt ist noch keine ausgelieferte Korrektur.
 
 [FAQ öffnen](FAQ.md) · [Installation](INSTALLATION.md) · [Fotoanleitung](EIGENE_SHOP_ICONS.md)
+
+
+## In Vorbereitung: Hinweise auf fehlende Mods
+
+Graue statt ausgeblendete HUD-Icons und Registerkarten, mit Hover-Hilfe und Doppelklick zur Originalquelle. [Anleitung](FEHLENDE_MODS.md). Automatisierte Desktop- und Browserprüfungen bestehen; noch nicht als neues Programmpaket veröffentlicht.

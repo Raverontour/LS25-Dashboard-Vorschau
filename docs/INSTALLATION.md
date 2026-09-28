@@ -39,3 +39,8 @@ Dieses Paket ist ein Teststand. Der vorzeitige Abschluss einzelner Spritz- und S
 ## Fotomodus beim ersten Spielstart
 
 Bei einem neuen, noch nicht gespeicherten Singleplayer-Spielstand kann zunächst Speichern und ein Neustart nötig sein. [Vorläufigen Ablauf in den FAQ lesen](FAQ.md).
+
+
+## Vorschau: fehlende Mods erkennen
+
+Im nächsten Public-Update bleiben zugehörige HUD-Icons und Registerkarten bei fehlenden Moddateien grau sichtbar. Hover nennt den Mod; Doppelklick öffnet seine Originalseite. [Bedienung, Installationsschritte und Originalquellen](FEHLENDE_MODS.md). Im bisherigen Download ist diese Änderung noch nicht enthalten.

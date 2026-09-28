@@ -124,3 +124,8 @@ Logs vor öffentlichem Teilen auf Zugangsdaten, Serveradressen und persönliche 
 ### Wird diese FAQ weiter ergänzt?
 
 Ja. Die Sammlung basiert auf den tatsächlich besprochenen und geprüften Fällen. Neue bestätigte Erkenntnisse und Korrekturen sollen bei weiteren Updates eingearbeitet werden. Vermutungen bleiben ausdrücklich gekennzeichnet; ein vorgemerkter Punkt ist noch keine ausgelieferte Funktion.
+
+
+## Vorschau: fehlende Mods erkennen
+
+Im nächsten Public-Update bleiben zugehörige HUD-Icons und Registerkarten bei fehlenden Moddateien grau sichtbar. Hover nennt den Mod; Doppelklick öffnet seine Originalseite. [Bedienung, Installationsschritte und Originalquellen](FEHLENDE_MODS.md). Im bisherigen Download ist diese Änderung noch nicht enthalten.
