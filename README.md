@@ -18,6 +18,27 @@
 
 **[Windows-Testversion herunterladen – Setup + Mod + Anleitung (ShareMods)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**
 
+### Mods für die zugehörigen Anzeigen und Funktionen
+
+**Die Modnamen sind anklickbar:** Öffne die jeweilige Originalseite und lade dort die LS25-Version herunter. Der benötigte Begleitmod **FS25_LS25DashboardMod.zip** ist bereits im Windows-Paket enthalten. Die folgenden Zusatzmods werden separat heruntergeladen; du brauchst sie für die jeweils zugehörigen Erweiterungen.
+
+| Anzeige | Benötigter Mod / Originalseite |
+|---|---|
+| Fahrzeuge und Fahrzeugliste | [Vehicle Inspector](https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=311140&title=fs2025) |
+| AutoDrive-HUD | [AutoDrive](https://github.com/Stephan-S/FS25_AutoDrive) |
+| Courseplay-HUD | [Courseplay](https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=331515&title=fs2025) |
+| Vehicle Manager | [Vehicle Manager](https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=311112&title=fs2025) |
+| Mission Display und Missions-HUD | [Missions Display](https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=309928&title=fs2025) |
+| Player Position und Teleport-HUD | [Player Teleport Display](https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=327619&title=fs2025) |
+| Preis-/Bestandsreiter und HUD | [FillType Amount Price Display](https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=309964&title=fs2025) |
+| Produktionsreiter und HUD | [Production Info HUD](https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=313960&title=fs2025) |
+| Tierreiter und HUD | [Animals Display](https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=334131&title=fs2025) |
+| Map Overview / AllRound-Anzeige | [AllRound Extension](https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=310611&title=fs2025) |
+
+**Einrichten:** Spiel speichern und beenden. Die heruntergeladenen Mod-ZIPs **nicht entpacken**, sondern in deinen verwendeten LS25-Mods-Ordner kopieren. Beim nächsten Laden des Spielstands aktivieren; im Mehrspieler dieselben Modversionen auf Server und Clients verwenden.
+
+Die neuen grauen Icons mit Hinweisen und Doppelklick-Links kommen erst mit dem nächsten Public-Update. [Details zu fehlenden Mods](docs/FEHLENDE_MODS.md).
+
 Enthalten: Dashboard-Setup mit Ordnerauswahl und optionalem Desktop-Symbol, Begleitmod als ZIP und Installationsanleitung. Python ist enthalten. Gesamtpaket entpacken; Mod-ZIP geschlossen lassen.
 
 **[Installation: Setup, Begleitmod und erster Start](docs/INSTALLATION.md)**
