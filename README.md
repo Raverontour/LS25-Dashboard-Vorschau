@@ -18,6 +18,12 @@
 
 **[Windows-Testversion herunterladen – Setup + Mod + Anleitung (ShareMods)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**
 
+**Neuer Stand vorbereitet:** Browser-/Tablet-Erweiterungen, automatische Datenabfrage und Setup mit Update/Deinstallation sind im neuen Public-Kandidaten enthalten. Der Download oben bleibt bis zum neuen Upload auf dem bisherigen Stand. [Alle Änderungen](docs/RELEASE_NOTES.md).
+
+### Update herunterladen
+
+Neues Windows-Paket mit Begleitmod **2.0.3.38**: Der neue Downloadlink folgt nach dem Upload. Das Paket eignet sich auch für eine Erstinstallation. Bei einem Update denselben Dashboard-Ordner wählen; Einstellungen und eigene Bilder bleiben erhalten.
+
 ### Mods für die zugehörigen Anzeigen und Funktionen
 
 **Für den vollen Funktionsumfang:** Installiere und aktiviere den mitgelieferten Begleitmod sowie die unten aufgeführten Zusatzmods, damit du alle bisher eingebauten Anzeigen, HUDs und Mod-Anbindungen nutzen kannst. Ohne einen Zusatzmod stehen dessen zugehörige Funktionen nicht vollständig zur Verfügung.

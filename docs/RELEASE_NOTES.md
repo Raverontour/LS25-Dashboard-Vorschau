@@ -1,5 +1,25 @@
 # Versionshinweise
 
+## 28. September 2026 – neuer Public-Kandidat, Begleitmod 2.0.3.38
+
+**Downloadstatus:** Das neue Windows-Paket ist vorbereitet. Der bisherige ShareMods-Link führt weiterhin zur älteren öffentlichen Version. Sobald ein neuer Downloadlink vorliegt, wird er hier ergänzt.
+
+- Fehlende und nicht aktivierte Zusatzmods bleiben als graue Icons und Register sichtbar. Hinweise unterscheiden Download und Aktivierung. Doppelklick öffnet bei fehlenden Mods die Originalquelle.
+- Automatischer erster Datenabgleich nach jeder neuen Spielsitzung; geöffnete Browserseiten aktualisieren unabhängig vom Desktop-Reiter. Der erste Abgleich benötigt ungefähr eine halbe Minute.
+- Animals Display und **Production Info HUD** als Browserseiten: Produktbilder, Füllstandsbalken und lesbare Zahlen. Bei Produktionen sind Rohstofflager, Produktlager und Rezepte getrennt; gemeinsam genutzte Lager werden nur einmal angezeigt.
+- Spielanzeigen unter **HUDs** zusammengefasst; HL-HUD Live aus der Browsernavigation entfernt.
+- Vorschaukärtchen in Karte und Map Overview: eigene Fotos bevorzugt, angehängte Geräte und verfügbare Aktionen Einsteigen, Job abbrechen oder Besuchen. Betretbare Fahrzeuge haben bei überlappenden Symbolen Vorrang.
+- Anpassung an Fensterbreite und Tabletgröße; graue Register behalten beim Größenwechsel Farbe und Position. Optionale HUD-Daten blockieren den Start nicht mehr.
+- Fotokennung wird beim Speichern erneut gesichert; bei neuen Spielständen kann ihre Anlage wiederholt werden, sobald der Speicherordner verfügbar ist.
+- Setup mit Modliste und Originallinks, Update mit Datenerhalt und Windows-Deinstallation. Persönliche Daten bleiben standardmäßig erhalten; das Löschen erfordert eine zusätzliche ausdrückliche Auswahl.
+
+**Installation:** Die äußere ZIP mit „ENTPACKEN“ im Namen vollständig entpacken. Setup ausführen, Begleitmod-ZIP geschlossen in den verwendeten Mods-Ordner legen und aktivieren. Bei einem Update denselben Installationsordner nutzen; keine vorherige Deinstallation nötig. Browserseite anschließend neu laden. Auf dem Server dieselbe Modversion einsetzen.
+
+**Paketinhalt:** Setup-EXE, Begleitmod-ZIP und kurze HTML-Anleitung mit zehn Modlinks. Keine Sicherungen oder Testdateien.
+
+Bekannte Grenzen: Der vorzeitige Abschluss von Spritz- und Steineaufträgen auf Thüringen bleibt offen. Echte Server-CPU-/RAM-Werte sind nicht enthalten. Der vollständige grafische Installationsdurchlauf wurde noch nicht geprüft; Simulation, Paket- und Startprüfung sind bestanden.
+
+
 ## 27. September 2026 – FAQ zur öffentlichen Windows-Testversion erweitert
 
 **Neu in der Dokumentation:** Die [FAQ und Fehlerhilfe](FAQ.md) erklärt Installation, Verbindung, Fotomodus, Vorschau-Icons, Helferstatus, Aufträge und Ruckler. Zu den bisherigen Fehlerfällen gibt es konkrete Prüfschritte. Bestätigte Ursachen, Vermutungen und vorläufige Lösungen werden getrennt beschrieben. Eine Checkliste hilft beim Erstellen eines Fehlerberichts.

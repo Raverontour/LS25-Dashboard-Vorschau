@@ -31,3 +31,8 @@ Ein nicht lesbarer oder noch nicht erkannter Mods-Ordner wird nicht als Beweis f
 Die Zuordnung beschreibt die Bedienung des kommenden Dashboard-Updates. Der eigene Begleitmod bleibt zusätzlich für die Verbindung zum Spiel erforderlich. Zusatzmods werden nicht im Dashboard-Paket mitgeliefert.
 
 [Installation](INSTALLATION.md) · [FAQ](FAQ.md)
+
+
+## Vorhanden, aber nicht aktiviert – neuer Public-Kandidat
+
+Mit Begleitmod 2.0.3.38 wird zusätzlich geprüft, ob der Mod im aktuellen Spielstand geladen ist. Eine vorhandene, aber deaktivierte Mod-ZIP führt ebenfalls zur grauen Anzeige. Der Hinweis fordert dann zum Aktivieren auf; ein erneuter Download ist nicht erforderlich. Spiel speichern und beenden, Mod beim Laden aktivieren. Ein lediglich ausgeschaltetes HUD ist kein fehlender Mod.
