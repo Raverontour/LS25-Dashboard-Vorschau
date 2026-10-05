@@ -2,6 +2,8 @@
 
 ## Update 2.03.20261005.1
 
+Bei getrennter Auslieferung: `Setup_LS25_Dashboard_2.03.20261005.1.exe` direkt starten; `FS25_LS25DashboardMod.zip` geschlossen lassen. Ein äußeres Gesamt-ZIP muss nur entpackt werden, wenn ein solches tatsächlich angeboten wird. Das neue Setup enthält die aktualisierte Hilfe.
+
 Dashboard vor dem Update schließen. Einstellungen nicht löschen; nach dem Update vollständige Buildnummer und **Einstellungen → Pfade** kontrollieren. Frei benannte Profile und individuelle Quellen werden unterstützt. „Automatisch“ zeigt den gefundenen Pfad im Feld; „Übernehmen & prüfen“ speichert. [Neue Pfadhilfe mit Prüfstatus und Bedienung](PFADE.md).
 
 Diese Dashboard-Pfadänderungen benötigen keinen neuen Begleitmod. Der passende bestehende Stand ist 2.0.3.40; nur bei einem ausdrücklich neuen Mod-Update Spiel/Server beenden und Client/Server gemeinsam aktualisieren. Der Setup-Modhinweis ist eine reine Informationsliste mit OK, ohne Abhakfelder oder automatische Modinstallation.
