@@ -17,6 +17,8 @@ Nach eigener Sichtprüfung für das Public-Testpaket freigegeben. Hilfe vor dem 
 
 **Downloadstatus:** Die bisherigen ShareMods-Links bleiben ältere Versionen; noch kein neuer Uploadlink eingetragen. Kein automatischer Austausch eines alten Downloads durch diese Dokumentation.
 
+**Neue Auslieferung:** `LS25_Dashboard_2.03.20261005.1_UNZIP_ME.zip` enthält den geprüften Dashboard-Installer und die unveränderte Mod-ZIP 2.0.3.40. Nur die äußere ZIP entpacken; die enthaltene Mod-ZIP geschlossen lassen.
+
 ## 28. September 2026 – Public-Update mit Begleitmod 2.0.3.38
 
 **Downloadstatus:** [Update herunterladen – Setup + Mod 2.0.3.38 + Anleitung (ShareMods)](https://sharemods.com/fmr8z38ao75v/LS25_Dashboard_2.03_Mod_2.0.3.38_Windows_Public_ENTPACKEN.zip.html). Der bisherige Download bleibt als ältere Version verfügbar.

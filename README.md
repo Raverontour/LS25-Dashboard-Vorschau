@@ -20,6 +20,8 @@ Die neue Public-Testversion ist nach eigener Sichtprüfung freigegeben: frei ben
 
 [Neue Pfadhilfe](docs/PFADE.md) · [Zusammengefasste Änderungen und Prüfgrenzen](docs/RELEASE_NOTES.md)
 
+**Paket:** `LS25_Dashboard_2.03.20261005.1_UNZIP_ME.zip` – äußere ZIP entpacken, Setup starten und die enthaltene Mod-ZIP geschlossen lassen. Installer und unveränderter Begleitmod 2.0.3.40 sind gemeinsam enthalten.
+
 **Downloadhinweis:** Die folgenden ShareMods-Links gehören zu älteren Paketen. Ein neuer Uploadlink für 2.03.20261005.1 ist hier noch nicht eingetragen; die Dokumentationsaktualisierung ersetzt keine alten Downloaddateien.
 
 **Öffentliche Testversion:** Dashboard und Begleitmod sind als Windows-Paket über ShareMods verfügbar. Die Funktionen befinden sich weiterhin im Test; bekannte Grenzen stehen in der Installationsanleitung.
