@@ -14,6 +14,14 @@
 
 </div>
 
+### 5. Oktober 2026 – Dashboard 2.03.20261005.1
+
+Die neue Public-Testversion ist nach eigener Sichtprüfung freigegeben: frei benannte Spielprofile, dauerhaft gespeicherte manuelle Pfade, automatische Pfadanzeige direkt im Feld und echte farbige Einzelprüfungen. Dazu kommen der automatisch abgeleitete Fotoordner, ein per Maus vergrößerbarer Prüfbericht, Scrollbedienung und die vollständige Buildnummer. Der Begleitmod bleibt unverändert bei **2.0.3.40**.
+
+[Neue Pfadhilfe](docs/PFADE.md) · [Zusammengefasste Änderungen und Prüfgrenzen](docs/RELEASE_NOTES.md)
+
+**Downloadhinweis:** Die folgenden ShareMods-Links gehören zu älteren Paketen. Ein neuer Uploadlink für 2.03.20261005.1 ist hier noch nicht eingetragen; die Dokumentationsaktualisierung ersetzt keine alten Downloaddateien.
+
 **Öffentliche Testversion:** Dashboard und Begleitmod sind als Windows-Paket über ShareMods verfügbar. Die Funktionen befinden sich weiterhin im Test; bekannte Grenzen stehen in der Installationsanleitung.
 
 **[Bisherige Windows-Testversion herunterladen (älterer Stand)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**

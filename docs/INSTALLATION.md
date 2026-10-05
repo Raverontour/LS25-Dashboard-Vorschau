@@ -1,5 +1,11 @@
 # Installation – LS25 Dashboard für Windows
 
+## Update 2.03.20261005.1
+
+Dashboard vor dem Update schließen. Einstellungen nicht löschen; nach dem Update vollständige Buildnummer und **Einstellungen → Pfade** kontrollieren. Frei benannte Profile und individuelle Quellen werden unterstützt. „Automatisch“ zeigt den gefundenen Pfad im Feld; „Übernehmen & prüfen“ speichert. [Neue Pfadhilfe mit Prüfstatus und Bedienung](PFADE.md).
+
+Diese Dashboard-Pfadänderungen benötigen keinen neuen Begleitmod. Der passende bestehende Stand ist 2.0.3.40; nur bei einem ausdrücklich neuen Mod-Update Spiel/Server beenden und Client/Server gemeinsam aktualisieren. Der Setup-Modhinweis ist eine reine Informationsliste mit OK, ohne Abhakfelder oder automatische Modinstallation.
+
 Windows 10/11, 64 Bit. Das Gesamtpaket enthält Dashboard-Setup, Begleitmod und Anleitung. Das Windows-Paket ist als öffentliche Testversion erhältlich.
 
 **[Bisherige Windows-Testversion herunterladen (älterer Stand)](https://sharemods.com/hsk5c6xu3an5/LS25_Dashboard_2.03_Windows_Public.zip.html)**

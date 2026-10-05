@@ -1,5 +1,22 @@
 # Versionshinweise
 
+## 5. Oktober 2026 – Dashboard 2.03.20261005.1
+
+Nach eigener Sichtprüfung für das Public-Testpaket freigegeben. Hilfe vor dem Paketbau aktualisiert; Begleitmod **2.0.3.40** und Datenformat unverändert.
+
+- Frei benannte Profile auf beliebigen Laufwerken; Profil, EXE, Log, Mods, ModSettings, Spielstandordner und Live-Datei getrennt einstellbar.
+- Automatisch ermittelte Pfade erscheinen direkt im Feld und bleiben intern automatisch. Manuelle Vorgaben werden nach Neustart oder regelmäßiger Suche nicht überschrieben.
+- Übernehmen und erneutes Prüfen liefern sichtbare Berichte. Grün bestätigt nur die einzeln benannte Prüfung; Warnungen, Fehler und optionale Quellen sind getrennt gekennzeichnet. Dateiexistenz ist keine bestätigte Modverbindung.
+- Profilgebundener Fotoordner zusätzlich geprüft, keine freie Foto-Umleitung.
+- 13-Punkt-Schrift, Mausrad und Scrollleisten, größerer weißer Bericht mit Ziehkante und fest erreichbaren Prüftasten. Die Teilung ist nicht über Neustarts gespeichert.
+- Vollständige Buildnummer in Titelleiste und Installer; Zusatzmod-Hinweis als reine Liste mit OK.
+
+**Prüfstand:** 19 gezielte Pfad-, Hilfe- und Starttests bestanden. Farben, Scrollen, Ziehkante und lokaler Live-Start zusätzlich am Bildschirm geprüft. Kein neuer Mehrclient-Livetest, keine allgemeine Performance-Freigabe.
+
+**Installation:** Dashboard schließen, neues Setup im bisherigen Dashboard-Ordner verwenden, Einstellungen behalten und anschließend Pfade prüfen. Den Begleitmod nicht wegen dieser Pfadänderungen ersetzen; Erstinstallationen benötigen weiterhin den passenden aktivierten Mod. [Ausführliche Pfadhilfe](PFADE.md).
+
+**Downloadstatus:** Die bisherigen ShareMods-Links bleiben ältere Versionen; noch kein neuer Uploadlink eingetragen. Kein automatischer Austausch eines alten Downloads durch diese Dokumentation.
+
 ## 28. September 2026 – Public-Update mit Begleitmod 2.0.3.38
 
 **Downloadstatus:** [Update herunterladen – Setup + Mod 2.0.3.38 + Anleitung (ShareMods)](https://sharemods.com/fmr8z38ao75v/LS25_Dashboard_2.03_Mod_2.0.3.38_Windows_Public_ENTPACKEN.zip.html). Der bisherige Download bleibt als ältere Version verfügbar.
