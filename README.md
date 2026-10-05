@@ -22,7 +22,11 @@ Die neue Public-Testversion ist nach eigener Sichtprüfung freigegeben: frei ben
 
 **Paket:** `LS25_Dashboard_2.03.20261005.1_UNZIP_ME.zip` – äußere ZIP entpacken, Setup starten und die enthaltene Mod-ZIP geschlossen lassen. Installer und unveränderter Begleitmod 2.0.3.40 sind gemeinsam enthalten.
 
-**Downloadhinweis:** Die folgenden ShareMods-Links gehören zu älteren Paketen. Ein neuer Uploadlink für 2.03.20261005.1 ist hier noch nicht eingetragen; die Dokumentationsaktualisierung ersetzt keine alten Downloaddateien.
+**[Aktuelle Public-Testversion 2.03.20261005.1 herunterladen – UNZIP_ME.zip (ShareMods)](https://sharemods.com/wlci6tbss7vr/LS25_Dashboard_2.03.20261005.1_UNZIP_ME.zip.html)**
+
+Die folgenden Downloads sind ältere Versionen und bleiben zur Nachvollziehbarkeit verfügbar.
+
+### Ältere Downloads
 
 **Öffentliche Testversion:** Dashboard und Begleitmod sind als Windows-Paket über ShareMods verfügbar. Die Funktionen befinden sich weiterhin im Test; bekannte Grenzen stehen in der Installationsanleitung.
 
@@ -32,7 +36,7 @@ Die neue Public-Testversion ist nach eigener Sichtprüfung freigegeben: frei ben
 
 **[So sieht die Browser- und Tabletansicht aus – neue Bildergalerie](docs/BROWSER_TABLET.md)**
 
-### Update herunterladen
+### Älteres Update mit Mod 2.0.3.38
 
 **[Update herunterladen – Setup + Mod 2.0.3.38 + Anleitung (ShareMods)](https://sharemods.com/fmr8z38ao75v/LS25_Dashboard_2.03_Mod_2.0.3.38_Windows_Public_ENTPACKEN.zip.html)**
 

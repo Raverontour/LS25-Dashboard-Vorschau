@@ -15,7 +15,7 @@ Nach eigener Sichtprüfung für das Public-Testpaket freigegeben. Hilfe vor dem 
 
 **Installation:** Dashboard schließen, neues Setup im bisherigen Dashboard-Ordner verwenden, Einstellungen behalten und anschließend Pfade prüfen. Den Begleitmod nicht wegen dieser Pfadänderungen ersetzen; Erstinstallationen benötigen weiterhin den passenden aktivierten Mod. [Ausführliche Pfadhilfe](PFADE.md).
 
-**Downloadstatus:** Die bisherigen ShareMods-Links bleiben ältere Versionen; noch kein neuer Uploadlink eingetragen. Kein automatischer Austausch eines alten Downloads durch diese Dokumentation.
+**Download:** [Public-Testversion 2.03.20261005.1 – UNZIP_ME.zip (ShareMods)](https://sharemods.com/wlci6tbss7vr/LS25_Dashboard_2.03.20261005.1_UNZIP_ME.zip.html). Die Downloads in den nachfolgenden historischen Einträgen bleiben ältere Versionen.
 
 **Neue Auslieferung:** `LS25_Dashboard_2.03.20261005.1_UNZIP_ME.zip` enthält den geprüften Dashboard-Installer und die unveränderte Mod-ZIP 2.0.3.40. Nur die äußere ZIP entpacken; die enthaltene Mod-ZIP geschlossen lassen.
 

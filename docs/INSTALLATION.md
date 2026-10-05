@@ -2,6 +2,8 @@
 
 ## Update 2.03.20261005.1
 
+**[Aktuelles gemeinsames UNZIP_ME-Paket herunterladen (ShareMods)](https://sharemods.com/wlci6tbss7vr/LS25_Dashboard_2.03.20261005.1_UNZIP_ME.zip.html)**
+
 Das gemeinsame Paket heißt `LS25_Dashboard_2.03.20261005.1_UNZIP_ME.zip`. Diese **äußere ZIP vollständig entpacken**. Darin liegen `Setup_LS25_Dashboard_2.03.20261005.1.exe` und die unveränderte `FS25_LS25DashboardMod.zip` (2.0.3.40). Setup starten; die **innere Mod-ZIP nicht entpacken**, sondern geschlossen in den verwendeten LS25-Mods-Ordner kopieren und aktivieren. Bei bereits installiertem identischem Mod ist kein erneuter Austausch nötig. Das Setup enthält die aktualisierte Hilfe.
 
 Dashboard vor dem Update schließen. Einstellungen nicht löschen; nach dem Update vollständige Buildnummer und **Einstellungen → Pfade** kontrollieren. Frei benannte Profile und individuelle Quellen werden unterstützt. „Automatisch“ zeigt den gefundenen Pfad im Feld; „Übernehmen & prüfen“ speichert. [Neue Pfadhilfe mit Prüfstatus und Bedienung](PFADE.md).
